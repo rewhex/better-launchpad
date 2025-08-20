@@ -9,7 +9,7 @@ The standard macOS Launchpad can be slow and lacks customization. Better Launchp
 ## ✨ Features
 
 - **🚀 Search**: Find and launch any app in milliseconds.
-- **⌨️ Keyboard Navigation**: Navigate through apps with arrow keys and launch with Enter. No need to touch the mouse.
+- **⌨️ Keyboard Navigation**: Navigate through apps with arrow keys and launch with Enter. No need to touch the mouse. Just start typing the name of the app to search.
 - **🎨 Customizable Layout**:
   - **Reorder Apps**: Drag and drop apps to create your perfect layout.
   - **Hide Apps**: Declutter your view by hiding apps you don't use often.
