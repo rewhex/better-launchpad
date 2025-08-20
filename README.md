@@ -15,7 +15,7 @@ The standard macOS Launchpad can be slow and lacks customization. Better Launchp
   - **Hide Apps**: Declutter your view by hiding apps you don't use often.
   - **Custom Icons**: Change an app's icon to personalize your grid.
 - **🌍 Multi-language Support**: Available in many popular languages.
-- **💸 Free and Open Source**: Better Launchpad is completely free and ad-free.
+- **💸 Free Forever**: Better Launchpad is completely free and ad-free.
 
 ## 💾 Installation
 
